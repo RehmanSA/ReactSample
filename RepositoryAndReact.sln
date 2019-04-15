@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryAndReact", "RepositoryAndReact\RepositoryAndReact.csproj", "{92EEA1F3-B1C2-4A89-B9C3-6EBC3294762D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleDAL", "SampleDAL\SampleDAL.csproj", "{D9FD3656-4D81-40C7-80BF-AB1371071A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EEA1F3-B1C2-4A89-B9C3-6EBC3294762D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EEA1F3-B1C2-4A89-B9C3-6EBC3294762D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EEA1F3-B1C2-4A89-B9C3-6EBC3294762D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EEA1F3-B1C2-4A89-B9C3-6EBC3294762D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FD3656-4D81-40C7-80BF-AB1371071A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FD3656-4D81-40C7-80BF-AB1371071A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FD3656-4D81-40C7-80BF-AB1371071A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FD3656-4D81-40C7-80BF-AB1371071A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1EE6DDC-9B43-4D6C-B23C-82849F2F0734}
+	EndGlobalSection
+EndGlobal
